@@ -9,4 +9,4 @@
 ## Big-O gösterimi
 
 > n(n+1)/2   
->´O(n^2)´
+>´ O(n^2) ´
